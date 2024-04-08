@@ -46,6 +46,7 @@ Welcome to Ubuntu Unity, a project dedicated to promoting and celebrating the ri
 
 - **About:**
   - Explore the background and purpose of Ubuntu Unity.
+  - Detailed video of the Project - https://www.youtube.com/watch?v=jdAeuNMv4cQ
 ## Contributing
 We welcome contributions to Ubuntu Unity! If you have ideas, suggestions, or want to contribute code, please feel free to do so. Together, let's make Ubuntu Unity a platform that truly reflects and celebrates the diversity of the Black community.
 
